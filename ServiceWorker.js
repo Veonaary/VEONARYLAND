@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-WebProject-0.1.0";
 const contentToCache = [
     "Build/VEONARYLAND.loader.js",
-    "Build/VEONARYLAND.framework.js",
-    "Build/VEONARYLAND.data",
-    "Build/VEONARYLAND.wasm",
+    "Build/VEONARYLAND.framework.js.unityweb",
+    "Build/VEONARYLAND.data.unityweb",
+    "Build/VEONARYLAND.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
